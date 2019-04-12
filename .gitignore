@@ -4,4 +4,4 @@
 *.ipr
 *.iws
 target/
-
+venv/
