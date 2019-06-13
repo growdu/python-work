@@ -69,5 +69,5 @@ if __name__ == '__main__':
 	if is_batch_deal:
 		DealBatchPdf(path)
 	else:
-		filename = 'E:\\pythonWork\\pythonWork\\ocrtest\\1.pdf' #要处理的pdf文件名
+		filename = 'E:\\pythonWork\\pythonWork\\ocrtest\\2.pdf' #要处理的pdf文件名
 		dealPerPdf(path, filename, 0)
